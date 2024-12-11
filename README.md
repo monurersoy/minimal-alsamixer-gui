@@ -21,24 +21,24 @@ A simple graphical audio settings tool for Linux built with Python and Tkinter. 
    cd minimal-alsamixer-gui
 
 2. Install dependencies:
-
-pip install -r requirements.txt
+   ```bash
+    pip install -r requirements.txt
 
 3. Run the application:
-
-python audio_gui.py
+    ```bash
+    python audio_gui.py
 
 ### Option 2: Use Precompiled Binary (Out-of-the-Box)
 
 1. Download the precompiled binary from the "Releases" section.
 
 2. Make the file executable:
-
-chmod +x audio_gui
+    ```bash
+    chmod +x audio_gui
 
 3. Run the application:
-
-./audio_gui
+    ```bash
+    ./audio_gui
 
 *This has been tested on Linux Mint 22 Wilma.
 
