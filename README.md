@@ -46,4 +46,4 @@ A simple graphical audio settings tool for Linux built with Python and Tkinter. 
 
 I built this mainly because my audio card driver issue and have seen people experiencing similar issue. My headphone jack doesn't recognizing devices and act accordingly. Due to that "Headphone" stays muted in alsamixer and Speaker output doesn't stop. So with this simple GUI i/you can easily adjust the necessary settings.
 
-Master Volume - Headphone Volume - Speaer Volume
+Master Volume - Headphone Volume - Speaker Volume
